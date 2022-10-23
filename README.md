@@ -12,6 +12,7 @@ A Powernukkit plugin to Minecraft Bedrock edition for friends list management
 A Minecraft Spigot plugin for minigames such as bow game, gun game.
 #### [CSGOOpportunityFinder]() (TypeScript/JavaScript) (Private Repository)
 Finds trades listed at low prices and buys them.
+#### Other projects are finished, not actively developed or abandoned
 
 ## Contact info
 Discord: Skillter#3909
