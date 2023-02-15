@@ -1,4 +1,4 @@
-## Hi, I'm Skillter
+## Hi, I'm Skillter ![](https://komarev.com/ghpvc/?username=Skillter)
 I've been learning Java for over 3 years and I've been into computers and system management since I was a little kid.
 
 
@@ -17,4 +17,3 @@ Finds trades listed at low prices and buys them
 Discord: Skillter#3909
 Twitter: [SkillterDev](https://twitter.com/SkillterDev)
 Email: mix_skillter@protonmail.com (may not respond)
-![](https://komarev.com/ghpvc/?username=Skillter)
