@@ -1,7 +1,6 @@
 ## Hi, I'm Skillter
 I've been learning Java for over 3 years and I've been into computers and system management since I was a little kid.
 
-![](https://komarev.com/ghpvc/?username=Skillter)
 
 ## Currently active WIP Projects:
 #### [Auto Skipper](https://github.com/Skillter/Auto-Skipper) (Java)
@@ -18,3 +17,4 @@ Finds trades listed at low prices and buys them
 Discord: Skillter#3909
 Twitter: [SkillterDev](https://twitter.com/SkillterDev)
 Email: mix_skillter@protonmail.com (may not respond)
+![](https://komarev.com/ghpvc/?username=Skillter)
