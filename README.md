@@ -1,4 +1,4 @@
-## Hi, I'm Skillter ![](https://komarev.com/ghpvc/?username=Skillter)
+## Hi, I'm Skillter ![]
 I've been learning Java for over 3 years and I've been into computers and system management since I was a little kid.
 
 
@@ -12,7 +12,7 @@ A Minecraft Spigot plugin for minigames such as bow game, gun game
 #### [CSGOOpportunityFinder]() (TypeScript/JavaScript) (Private Repository)
 Finds trades listed at low prices and buys them
 #### Other projects are finished, not actively developed or abandoned.
-
+![](https://komarev.com/ghpvc/?username=Skillter)
 ## Contact info
 Discord: Skillter#3909
 Twitter: [SkillterDev](https://twitter.com/SkillterDev)
