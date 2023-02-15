@@ -1,7 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Skillter)
 ## Hi, I'm Skillter
 I've been learning Java for over 3 years and I've been into computers and system management since I was a little kid.
-
+![](https://komarev.com/ghpvc/?username=Skillter)
 
 ## Currently active WIP Projects:
 #### [Auto Skipper](https://github.com/Skillter/Auto-Skipper) (Java)
