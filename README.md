@@ -1,4 +1,4 @@
-## Hi, I'm Skillter !
+## Hi, I'm Skillter!
 I've been learning Java for over 3 years and I've been into computers and system management since I was a little kid.
 
 
