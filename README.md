@@ -14,6 +14,6 @@ Finds trades listed at low prices and buys them
 #### Other projects are finished, not actively developed or abandoned.
 ![](https://komarev.com/ghpvc/?username=Skillter)
 ## Contact info
-Discord: Skillter#3909
+Discord: Skillter#0001
 Twitter: [SkillterDev](https://twitter.com/SkillterDev)
 Email: mix_skillter@protonmail.com (may not respond)
