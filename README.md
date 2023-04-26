@@ -3,6 +3,8 @@ I've been learning Java for over 3 years and I've been into computers and system
 
 
 ## Currently active WIP Projects:
+#### [Skillter.dev](https://github.com/Skillter/skillter.dev) (Java, JavaScript, HTML, CSS)
+A Spring website about me and my portfolio
 #### [Auto Skipper](https://github.com/Skillter/Auto-Skipper) (Java)
 A Minecraft Java modification for automatically skipping games with players higher level than you
 #### [Friends System](https://github.com/Skillter/PowerNukkitPlugins/tree/friends-system) (Java)
