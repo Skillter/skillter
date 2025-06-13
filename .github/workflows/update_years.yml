@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run the script to update README
-        run: python update_years.py
+        run: python scripts/update_years.py
 
       # commit the changes
       - name: Commit and push
