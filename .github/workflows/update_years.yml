@@ -1,0 +1,30 @@
+name: Update how many years have passed in the README file
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  # be able to optionally run it manually
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # has to be here to be able to access the repo files
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run the script to update README
+        run: python update_years.py
+
+      # commit the changes
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update years of experience"
+          file_pattern: README.md # only commit if README.md has changed
