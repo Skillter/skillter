@@ -2,9 +2,8 @@ name: Update how many years have passed in the README file
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  # be able to optionally run it manually
-  workflow_dispatch:
+    - cron: '0 3 * * 0' # run every week
+  workflow_dispatch: # be able to optionally run it manually
 
 jobs:
   update-readme:
