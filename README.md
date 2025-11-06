@@ -5,7 +5,7 @@ Visit my website at https://skillter.dev (WIP)
 
 And my free API Hub service for developers at https://synaxic.skillter.dev
 
-## Check out my new project
+## Check out my new projects
 #### [ProxyGather](https://github.com/Skillter/ProxyGather) (Python / Browser Automation)
 Get a lot of working good free proxies with this tool.
 A sophisticated proxy scraper from a wide variety of sources and a proxy checker.
