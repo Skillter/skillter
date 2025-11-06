@@ -11,6 +11,7 @@ A sophisticated proxy scraper from a wide variety of sources and a proxy checker
 
 #### [Synaxic API](https://github.com/Skillter/SynaxicAPI) (Java / Spring Boot)
 Check out many useful & free API endpoints for disposable email detection, IP geolocation/ISP info, unit conversion and more, at https://synaxic.skillter.dev
+
 API hub for essential developer utilities with distributed caching, multi-node architecture, real-time analytics & status page, rate limiting, and built to scale.
 
 
