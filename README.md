@@ -1,5 +1,5 @@
 ## Hi, I'm Skillter!
-I've been learning Java for over <!-- AUTO_UPDATE_YEARS:2020 -->5<!-- /AUTO_UPDATE_YEARS --> years and I've been into computers and system management since I was a little kid.
+I've been learning Java for over <!-- AUTO_UPDATE_YEARS:2020 -->6<!-- /AUTO_UPDATE_YEARS --> years and I've been into computers and system management since I was a little kid.
 
 Visit my website at https://skillter.dev (WIP)
 
